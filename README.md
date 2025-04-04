@@ -1,7 +1,6 @@
-# 🎲 Prisoner's Dilemma: The Gambler's Paradox  
+# 🎲 Prisoner's Dilemma
 *If even I don’t know my next move, how can my opponent?* 
 
----
 
 ### Strategy Overview  
-This repository implements a deterministic chaos approach for the Iterated Prisoner’s Dilemma tournament.
+This repository implements a pseudo-random approach for the Iterated Prisoner’s Dilemma tournament.
